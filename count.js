@@ -10,6 +10,7 @@ function count(word)
     return convertNumberToWord(count); 
 }
 
+ //Se Convierte número en palabra
 function convertNumberToWord(number) 
 {
   if (number > 0) 
